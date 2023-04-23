@@ -21,7 +21,7 @@ The text data was pre-processed using NLP libraries such as TensorFlow and Keras
 To use the trained model for classification, the model can be deployed using Flask to provide a web interface for users to input and classify news articles.
 
 ## Results
-The performance of the models was evaluated using accuracy and F1-score metrics. The best-performing model was the LSTM model, which achieved an accuracy of 92% and an F1-score of 0.92.
+
 
 ## Future Work
 In the future, the model can be deployed using Flask to provide a web interface for users to input and classify news articles. Additionally, more data can be collected and added to the dataset to improve the accuracy and robustness of the models.
