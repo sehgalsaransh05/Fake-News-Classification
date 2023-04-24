@@ -17,11 +17,5 @@ The dataset was sourced from Kaggle, and can be found at https://www.kaggle.com/
 ## Methodology
 The text data was pre-processed using NLP libraries such as TensorFlow and Keras. The pre-processed data was then used to train the RNN, LSTM, and GRU models. The models were evaluated using accuracy and F1-score metrics.
 
-## Usage
-To use the trained model for classification, the model can be deployed using Flask to provide a web interface for users to input and classify news articles.
-
-## Results
-
-
 ## Future Work
 In the future, the model can be deployed using Flask to provide a web interface for users to input and classify news articles. Additionally, more data can be collected and added to the dataset to improve the accuracy and robustness of the models.
